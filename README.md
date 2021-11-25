@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/ecdaa90c60e7f86ec0dc7.jpg" alt="KRIZ" width="300" />
+<img src="denz.jpg" alt="BELCO" width="300" />
 
 # BELCO SER
 
