@@ -15,15 +15,15 @@
 ## SIMPLE METHOD
     
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SERV2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Nihalmhd/BELCO-SIR-V2)
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
 
 ## HOW TO INSTALL ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/KANNANSIR/KRIZ-SERV2
-> cd KRIZ-SERV2
+> git clone https://github.com/Nihalmhd/BELCO-SIR-V2
+> cd BELCO-SIR-V2
 > npm i -g npm@6.14.14
 > npm install @adiwajshing/bailyes
 > npm install terminal-kit
@@ -32,8 +32,8 @@
 ```
 ## HOW TO INSTALL ON PC
 ```bash
-> git clone https://github.com/KANNANSIR/KRIZ-SERV2
-> cd KRIZ-SERV2
+> git clone https://github.com/Nihalmhd/BELCO-SIR-V2
+> cd BELCO-SIR-V2
 > npm install terminal-kit
 > npm i
 > npm start/node index.js
