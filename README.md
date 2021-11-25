@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://telegra.ph/file/ecdaa90c60e7f86ec0dc7.jpg" alt="KRIZ" width="300" />
 
-# KRIZ SER
+# BELCO SER
 
 >
 >
